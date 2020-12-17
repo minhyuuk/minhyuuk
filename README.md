@@ -4,11 +4,7 @@
 - 🔭 Gwang-ju Software Meister High School/South Korea
 
 
-- 🌱 My Language
-     
-     Android Kotlin
-     JAVA
-     C
+- 🌱 My Language : Kotlin, JAVA, C
 
 - ⚡ Fun fact: I will love Kotlin
 
