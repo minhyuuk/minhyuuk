@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [![HitCount](http://hits.dwyl.com/minhyuuk/READMEmd.svg)](http://hits.dwyl.com/minhyuuk/READMEmd)
 
 - 🔭 Gwang-ju Software Meister High School/South Korea
 - 🌱 My Language : Kotlin
