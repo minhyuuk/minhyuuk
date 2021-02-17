@@ -29,7 +29,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jlssteeve1@gmail.com)](mailto:jlssteeve1@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/m.__.hyukxx/)](https://www.instagram.com/m.__.hyukxx/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-0000ff?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100012158708089)](https://www.facebook.com/profile.php?id=100012158708089)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minhyuuk&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyuuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minhyuuk&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyuuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
