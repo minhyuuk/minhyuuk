@@ -1,13 +1,7 @@
+### 👋🏻 반가워요!
+저는 안드로이드 개발자 정민혁입니다. <br>
+좋은 사용자 경험을 주기 위해 고민합니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/minhyuuk%2Fhit-counter&count_bg=%23E3DC68&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/minhyuuk?label=Follow)
-
-
-## 👋🏻 안녕하세요
-보다 더 나은 앱을 개발합니다. <br>
-새로운 기술 도입을 위해 꾸준히 노력합니다.<br>
-Languages : Kotlin, Java<br>
-Tools : Android Studio<br>
-Contact : jlssteeve1@gmail.com<br>
  
 
 
